@@ -77,6 +77,7 @@ brew install --cask transmit
 
 # draw tool
 brew install --cask drawio
+brew install --cask miro
 brew install --cask figma
 
 # web tool
