@@ -60,6 +60,7 @@ brew install --cask owasp-zap
 brew install --cask github
 brew install --cask fork
 brew install --cask sourcetree
+brew install --cask gitify
 
 # db client
 brew install --cask sequel-pro
