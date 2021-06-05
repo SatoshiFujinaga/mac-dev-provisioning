@@ -25,6 +25,9 @@ brew install ruby-build
 # self CA tool
 brew install mkcert
 
+# install linux commands
+brew install jq
+
 # chrome drive
 brew install selenium-server-standalone
 brew install chromedriver
