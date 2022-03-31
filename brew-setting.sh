@@ -10,10 +10,13 @@ brew install git
 
 # composer tool
 brew install ansible
+brew install phive
+brew install doxygen
 
 # image converter
 brew install webp
 brew install imagemagick
+brew install graphviz
 
 # nodebrew
 brew install nodebrew
@@ -41,8 +44,18 @@ brew install --cask chromium
 # virtual machine
 brew install --cask docker
 brew install --cask vagrant
-brew install --cask virtualbox
+#brew install --cask virtualbox
+brew install --cask vmware-fusion
 brew install --cask utm
+
+# vagrant plugin
+vagrant plugin install vagrant-vmware-desktop
+vagrant plugin install sahara
+vagrant plugin install vagrant-aws
+vagrant plugin install vagrant-docker-compose
+vagrant plugin install vagrant-proxycon
+vagrant plugin install vagrant-vbguest
+vagrant plugin install vagrant-disksize
 
 # editor
 brew install --cask visual-studio-code
